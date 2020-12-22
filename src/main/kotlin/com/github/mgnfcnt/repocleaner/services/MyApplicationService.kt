@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mgnfcnt.repocleaner.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mgnfcnt.repocleaner.MyBundle
 
 class MyApplicationService {
 
